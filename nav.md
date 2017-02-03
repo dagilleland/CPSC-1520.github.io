@@ -1,0 +1,10 @@
+- Introduction to JavaScript
+- Functions
+- Event Listeners
+- Making Decisions
+- Accessing Forms
+- Loops and Arrays
+- Node Lists
+- Timers
+- DOM Manipulation
+- AJAX and JSON
